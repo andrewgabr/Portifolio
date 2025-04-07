@@ -97,3 +97,5 @@ WHERE fun.paid_date IS NOT NULL
   AND date_trunc('month', fun.paid_date)::date = '2021-08-01'
 GROUP BY cum.state, data
 ORDER BY qntdd DESC;
+```
+
