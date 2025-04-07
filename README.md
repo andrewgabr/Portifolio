@@ -61,3 +61,23 @@ LEFT JOIN sales.products AS prod ON prod.product_id = fun.product_id
 LEFT JOIN leads ON date_trunc('month', fun.paid_date)::date = leads.data1
 WHERE fun.paid_date IS NOT NULL
 GROUP BY data, leads.visitas;
+```
+### Resultado
+Receita, Ticker Medio, Visitas, Converção				
+data	receita	ticket_medio	visitas	conversao
+set-20	259	51,9	26	19
+out-20	1676	47,9	931	4
+nov-20	2279	51,8	1.207	4
+dez-20	2603	78,9	1.008	3
+jan-21	2297	71,8	1.058	3
+fev-21	3631	53,4	1.300	5
+mar-21	7911	66,5	1.932	6
+abr-21	7478	52,7	2.376	6
+mai-21	21508	54,6	3.819	10
+jun-21	33179	56,3	4.440	13
+jul-21	58988	55,0	6130	18
+ago-21	68274	54	6353	20
+
+
+
+
