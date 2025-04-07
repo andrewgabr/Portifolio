@@ -6,20 +6,20 @@ Este repositório reúne projetos de Análise de Dados, com dashboards, consulta
 
 ## 1 - Dashboards
 
-### 1.1 Dashboard de Vendas
-![GIF_DASHBOARD_VENDAS](coloque_o_caminho_do_gif_aqui)
+### 1.1 Dashboard de Vendas (Power BI)
+![GIF_DASHBOARD_VENDAS](https://raw.githubusercontent.com/andrewgabr/Supermercado_Dashboard/refs/heads/master/assets/Gif_Power_BI.gif)
 
-🔗 [Acesse o repositório do dashboard de vendas](https://github.com/andrewgabr/link_projeto_vendas)
+🔗 [Acesse o repositório do dashboard de vendas](https://github.com/andrewgabr/Supermercado_Dashboard)
 
-### 1.2 Dashboard de Campanha de Marketing
-![GIF_DASHBOARD_MARKETING](coloque_o_caminho_do_gif_aqui)
+### 1.2 Dashboard de Campanha de Marketing (Power BI)
+![GIF_DASHBOARD_MARKETING](https://raw.githubusercontent.com/andrewgabr/Campanha_Marketing-Dashboard/refs/heads/master/imgs/Screenshot%202025-03-30%20215249.png)
 
-🔗 [Acesse o repositório do dashboard de marketing](https://github.com/andrewgabr/link_projeto_marketing)
+🔗 [Acesse o repositório do dashboard de marketing](https://github.com/andrewgabr/Campanha_Marketing-Dashboard)
 
-### 1.3 Dashboard de Leads
-![GIF_DASHBOARD_LEADS](coloque_o_caminho_do_gif_aqui)
+### 1.3 Dashboard de Leads (Excel)
+![GIF_DASHBOARD_LEADS](https://raw.githubusercontent.com/andrewgabr/Leads_excel_dashboard/refs/heads/master/imgs/query.png)
 
-🔗 [Acesse o repositório do dashboard de leads](https://github.com/andrewgabr/link_projeto_leads)
+🔗 [Acesse o repositório do dashboard de leads](https://github.com/andrewgabr/Leads_excel_dashboard?tab=readme-ov-file)
 
 ---
 
@@ -120,7 +120,7 @@ ORDER BY qntdd DESC;
 ## 3 - Python + Machine Learning
 
 ### 3.1 Análise Preditiva de Empréstimos
-![GIF_LOAN](coloque_o_caminho_do_gif_aqui)
+![GIF_LOAN](https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif)
 
 🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
 
