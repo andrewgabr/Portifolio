@@ -1,6 +1,4 @@
-# Portfólio de Projetos - Andrew Gabr
-
-Este repositório reúne projetos de Análise de Dados, com dashboards, consultas SQL e aplicações com Python + Machine Learning.
+# Portfólio de Projetos - Andrew 
 
 ---
 
@@ -126,5 +124,5 @@ ORDER BY qntdd DESC;
 
 ### 3.2 Análise Climática com Python
 
-🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/link_projeto_clima)
+🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
 
