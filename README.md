@@ -9,7 +9,7 @@
 
 🔗 [Acesse o repositório do dashboard de vendas](https://github.com/andrewgabr/Supermercado_Dashboard)
 
-### 1.2 Dashboard de Campanha de Marketing (Power BI)
+### 1.2 Dashboard de Campanha de Marketing (Power BI + SQL)
 ![GIF_DASHBOARD_MARKETING](https://raw.githubusercontent.com/andrewgabr/Campanha_Marketing-Dashboard/refs/heads/master/imgs/Screenshot%202025-03-30%20215249.png)
 
 🔗 [Acesse o repositório do dashboard de marketing](https://github.com/andrewgabr/Campanha_Marketing-Dashboard)
