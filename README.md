@@ -69,6 +69,7 @@ ORDER BY quantidade DESC
 LIMIT 5;
 ```
 🔗Resultado ->
+
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/2.png?raw=true)
 
 ### Top 5 Lojas do Mês
@@ -88,6 +89,7 @@ ORDER BY qntdd DESC
 LIMIT 5;
 ```
 🔗Resultado ->
+
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/3.png?raw=true)
 
 ### Visitas por Dia da Semana
