@@ -62,7 +62,8 @@ LEFT JOIN leads ON date_trunc('month', fun.paid_date)::date = leads.data1
 WHERE fun.paid_date IS NOT NULL
 GROUP BY data, leads.visitas;
 ```
-Resultado ->
+🔗Resultado ->
+
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/1.png?raw=true)
 
 ### Top 5 Marcas do Mês
@@ -80,7 +81,7 @@ GROUP BY data, prod.brand
 ORDER BY quantidade DESC
 LIMIT 5;
 ```
-Resultado ->
+🔗Resultado ->
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/2.png?raw=true)
 
 ### Top 5 Lojas do Mês
@@ -99,7 +100,7 @@ GROUP BY store.store_name, data
 ORDER BY qntdd DESC
 LIMIT 5;
 ```
-Resultado ->
+🔗Resultado ->
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/3.png?raw=true)
 
 ### Visitas por Dia da Semana
@@ -113,7 +114,8 @@ FROM sales.funnel
 WHERE date_trunc('month', visit_page_date)::date = '2021-08-01'
 GROUP BY dia_semana;
 ```
-Resultado ->
+🔗Resultado -> 
+
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/4.png?raw=true)
 
 
@@ -132,7 +134,7 @@ WHERE fun.paid_date IS NOT NULL
 GROUP BY cum.state, data
 ORDER BY qntdd DESC;
 ```
-Resultado ->
+🔗Resultado ->
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/5.png?raw=true)
 
 
