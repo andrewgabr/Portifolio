@@ -132,7 +132,7 @@ ORDER BY qntdd DESC;
 🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
 
 ### 2.2 Análise Climática com Python
-![GIF_LOAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mfrural.com.br%2Fclima-tempo%2F&psig=AOvVaw3o69IYIACLoylrXlphUJ9z&ust=1744566985113000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCC_YL90owDFQAAAAAdAAAAABAE)
+![GIF_LOAN](https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima-x-tempo-1024x660.jpg)
 
 🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
 
