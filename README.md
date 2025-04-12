@@ -132,8 +132,12 @@ ORDER BY qntdd DESC;
 ### 3.1 Análise Preditiva de Empréstimos
 <img src="https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif" alt="GIF_LOAN" width="400"/>
 
+- Este projeto tem como objetivo criar um modelo preditivo para aprovação de empréstimos, com foco na identificação de clientes que têm maior probabilidade de não pagar o empréstimo. O modelo utiliza Random Forest para prever a inadimplência, sacrificando parte da acurácia para maximizar a identificação de inadimplentes.
+
 🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
 
+- Este projeto realiza uma análise climática dos dados coletados entre 2006 e 2016 na cidade de Szeged, Hungria. O objetivo é explorar as variáveis climáticas como temperatura, umidade, vento e visibilidade e, com base nessa análise, treinar um modelo de Machine Learning para prever a temperatura.
+  
 ### 3.2 Análise Climática com Python
 <img src="https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima-x-tempo-1024x660.jpg" alt="GIF_CLIMA" width="400"/>
 
