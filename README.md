@@ -5,7 +5,7 @@
 ## 1 - Dashboards
 
 ### 1.1 Dashboard de Vendas (Power BI)
-![GIF_DASHBOARD_VENDAS](https://raw.githubusercontent.com/andrewgabr/Supermercado_Dashboard/refs/heads/master/assets/Gif_Power_BI.gif)
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/Supermercado_Dashboard/raw/master/assets/gif.gif?raw=true)
 
 🔗 [Acesse o repositório do dashboard de vendas](https://github.com/andrewgabr/Supermercado_Dashboard)
 
