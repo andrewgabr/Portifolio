@@ -21,20 +21,7 @@
 
 ---
 
-## 2 - Python + Machine Learning
-
-### 2.1 Análise Preditiva de Empréstimos
-![GIF_LOAN](https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif)
-
-🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
-
-### 2.2 Análise Climática com Python
-
-🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
-
----
-
-## 3 - Análise com SQL
+## 2 - Análise com SQL
 
 Análise de dados de um e-commerce com foco em conversão, performance de vendas, marcas, lojas e localidade.
 
@@ -136,6 +123,19 @@ ORDER BY qntdd DESC;
 ```
 🔗Resultado ->
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/5.png?raw=true)
+
+## 3 - Python + Machine Learning
+
+### 2.1 Análise Preditiva de Empréstimos
+![GIF_LOAN](https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif)
+
+🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
+
+### 2.2 Análise Climática com Python
+![GIF_LOAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mfrural.com.br%2Fclima-tempo%2F&psig=AOvVaw3o69IYIACLoylrXlphUJ9z&ust=1744566985113000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCC_YL90owDFQAAAAAdAAAAABAE)
+
+🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
+
 
 
 
