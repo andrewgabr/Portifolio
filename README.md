@@ -39,7 +39,7 @@
 Análise de dados de um e-commerce com foco em conversão, performance de vendas, marcas, lojas e localidade.
 
 ### Receita, Ticket Médio, Visitas e Conversão
-
+Query ->
 ```sql
 -- Métricas Gerais do Funil
 WITH leads AS (
@@ -62,9 +62,11 @@ LEFT JOIN leads ON date_trunc('month', fun.paid_date)::date = leads.data1
 WHERE fun.paid_date IS NOT NULL
 GROUP BY data, leads.visitas;
 ```
+Resultado ->
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/1.png?raw=true)
 
 ### Top 5 Marcas do Mês
-
+Query ->
 ```sql
 -- Marcas com maior volume de vendas
 SELECT
@@ -78,9 +80,11 @@ GROUP BY data, prod.brand
 ORDER BY quantidade DESC
 LIMIT 5;
 ```
+Resultado ->
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/2.png?raw=true)
 
 ### Top 5 Lojas do Mês
-
+Query ->
 ```sql
 -- Lojas com mais vendas no mês
 SELECT
@@ -95,9 +99,11 @@ GROUP BY store.store_name, data
 ORDER BY qntdd DESC
 LIMIT 5;
 ```
+Resultado ->
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/3.png?raw=true)
 
 ### Visitas por Dia da Semana
-
+Query ->
 ```sql
 -- Visitas ao site por dia da semana
 SELECT
@@ -107,9 +113,12 @@ FROM sales.funnel
 WHERE date_trunc('month', visit_page_date)::date = '2021-08-01'
 GROUP BY dia_semana;
 ```
+Resultado ->
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/4.png?raw=true)
+
 
 ### Estados com Mais Vendas
-
+Query ->
 ```sql
 -- Regiões com maior volume de vendas
 SELECT
@@ -123,6 +132,8 @@ WHERE fun.paid_date IS NOT NULL
 GROUP BY cum.state, data
 ORDER BY qntdd DESC;
 ```
+Resultado ->
+![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/5.png?raw=true)
 
-🔗 [Acesse o repositório do projeto SQL](https://github.com/andrewgabr/link_projeto_sql)
+
 
