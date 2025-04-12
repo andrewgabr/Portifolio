@@ -136,10 +136,11 @@ ORDER BY qntdd DESC;
 
 🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
 
-- Este projeto realiza uma análise climática dos dados coletados entre 2006 e 2016 na cidade de Szeged, Hungria. O objetivo é explorar as variáveis climáticas como temperatura, umidade, vento e visibilidade e, com base nessa análise, treinar um modelo de Machine Learning para prever a temperatura.
   
 ### 3.2 Análise Climática com Python
 <img src="https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima-x-tempo-1024x660.jpg" alt="GIF_CLIMA" width="400"/>
+
+- Este projeto realiza uma análise climática dos dados coletados entre 2006 e 2016 na cidade de Szeged, Hungria. O objetivo é explorar as variáveis climáticas como temperatura, umidade, vento e visibilidade e, com base nessa análise, treinar um modelo de Machine Learning para prever a temperatura.
 
 🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
 
