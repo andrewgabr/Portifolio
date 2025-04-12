@@ -124,17 +124,18 @@ GROUP BY cum.state, data
 ORDER BY qntdd DESC;
 ```
 🔗Resultado ->
+
 ![GIF_DASHBOARD_VENDAS](https://github.com/andrewgabr/querys_ecomerce/blob/master/imgs/5.png?raw=true)
 
 ## 3 - Python + Machine Learning
 
-### 2.1 Análise Preditiva de Empréstimos
-![GIF_LOAN](https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif)
+### 3.1 Análise Preditiva de Empréstimos
+<img src="https://raw.githubusercontent.com/andrewgabr/aprovacao-emprestimo/refs/heads/master/imgs/Anima%C3%A7%C3%A3o.gif" alt="GIF_LOAN" width="400"/>
 
 🔗 [Acesse o repositório do projeto de empréstimo](https://github.com/andrewgabr/aprovacao-emprestimo)
 
-### 2.2 Análise Climática com Python
-![GIF_LOAN](https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima-x-tempo-1024x660.jpg)
+### 3.2 Análise Climática com Python
+<img src="https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima-x-tempo-1024x660.jpg" alt="GIF_CLIMA" width="400"/>
 
 🔗 [Acesse o repositório do projeto de clima](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao)
 
